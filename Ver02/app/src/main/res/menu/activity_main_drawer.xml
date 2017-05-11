@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/main"
+            android:title="@string/menu_main"
+            />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/grid_search"
+            android:title="@string/menu_search" />
+        <item
+            android:id="@+id/nav_sympathy"
+            android:icon="@drawable/grid_sympathy"
+            android:title="@string/menu_symphaty" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/messages"
+            android:title="@string/menu_messages" />
+        <item
+            android:id="@+id/nav_attentions"
+            android:icon="@drawable/grid_attentions2"
+            android:title="@string/menu_attentions" />
+        <item
+            android:id="@+id/nav_contest"
+            android:icon="@drawable/contest"
+            android:title="@string/menu_adc" />
+        <item
+            android:id="@+id/nav_ads"
+            android:icon="@drawable/ads"
+            android:title="@string/menu_ads" />
+        <item
+            android:id="@+id/nav_charity"
+            android:icon="@drawable/charity"
+            android:title="@string/menu_charity" />
+    </group>
+
+
+</menu>

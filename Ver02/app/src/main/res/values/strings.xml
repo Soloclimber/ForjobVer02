@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Ver02</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_tab1">активна вкладка 1</string>
+    <string name="txt_tab2">активна вкладка 2</string>
+    <string name="txt_tab3">активна вкладка 3</string>
+    <string name="txt_profile">kir</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Schet">Счет 100 Dx</string>
+    <string name="Zateryalis_v_tolpe">Затерялись в толпе</string>
+    <string name="vip_status">VIP статус</string>
+    <string name="profile_name">kir</string>
+    <string name="menu_main">Главная</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_symphaty">Симпатии</string>
+    <string name="menu_messages">Сообщения</string>
+    <string name="menu_attentions">Знаки внимания</string>
+    <string name="menu_adc">Конкурс</string>
+    <string name="menu_ads">Доска объявлений</string>
+    <string name="menu_charity">Благотворительная акция</string>
+    <string name="btn_podnyat_anketu">Поднять анкету</string>
+    <string name="anketa_place">Ваша анкета на 1000 месте - поднимите анкету и станьте заметнее</string>
+    <string name="two_month">2 месяца</string>
+    <string name="one_week">1 неделя</string>
+    <string name="one_month">1 месяц</string>
+    <string name="price_for_week">10 Dx(100 р)</string>
+    <string name="price_for_month">30 Dx(300 р)</string>
+    <string name="price_for_two_month">50 Dx(500 р)</string>
+    <string name="vip_1_string">Оплатив VIP статус, Вы получаете дополнительные возможности:</string>
+    <string name="vip_3_string">- по возрасту\n- потерритории\n- по отношению к курению\n- по отношению к алкоголю></string>
+    <string name="vip_4_string"><b>Невидимка</b>(Пользователи не смогут видеть, что Вы просматривали их анкеты)</string>
+    <string name="vipbutton">ПОЛУЧИТЬ VIP</string>
+    <string name="vip_2_string">Расширенный фильтр пользователей, которые смогут отправлять вам сообщения. Вы сможете ввести ограничения:</string>
+    <string name="vip_5_string"><b>Цветное оформление анкеты</b>(Вы можете использовать любые картинки или фото в качестве фона)</string>
+    <string name="anketa1000">Ваша анкета на 1000 месте - поднимите анкету и станьте заметнее</string>
+    <string name="anketarise">Поднять анкету</string>
+    <string name="text_tab1">Это первая вкладка</string>
+    <string name="text_tab2">Это вторая вкладка</string>
+    <string name="text_tab3">Это третья вкладка</string>
+    <string name="title_activity_search">SearchActivity</string>
+</resources>
